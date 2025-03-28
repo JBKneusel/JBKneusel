@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt text]("Banner@0.5x.png")
+![Alt text]("https://github.com/JBKneusel/JBKneusel/blob/main/Banner%400.5x.png")
 
 <!--
 **JBKneusel/JBKneusel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
