@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt text]("Banner.png")
+![Alt text]("Banner.png")
 
 <!--
 **JBKneusel/JBKneusel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
