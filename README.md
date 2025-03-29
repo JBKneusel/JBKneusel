@@ -1,4 +1,20 @@
 ![](Banner.gif)
+
+![](ConsoleTitleA.gif)
+
+## Salutations!
+
+Key Skills & Expertise → Skills or Core Competencies
+
+Experience & Achievements → Experience or Work History
+
+Passion & Motivation → Professional Summary (included within)
+
+Personal Touch → Interests or Hobbies (optional)
+
+Call to Action → Contact Information or Portfolio & Links
+
+
 <p align="center">What's new with JBKneusel? </p>
 
 
