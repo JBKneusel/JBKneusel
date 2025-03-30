@@ -18,7 +18,7 @@ Call to Action → Contact Information or Portfolio & Links
 
 
 <p align="center">
-<img src="console2.png" width="600">
+<img src="console2.png" width="700">
 </p>
 
 
