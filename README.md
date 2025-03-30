@@ -1,6 +1,8 @@
 ![](Banner.gif)
 
-![](ConsoleTitleA.gif)
+<p align="center">
+<img src="Console_TitleA.png" width="400">
+</p>
 
 ## Salutations!
 
