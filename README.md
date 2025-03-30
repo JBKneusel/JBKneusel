@@ -17,7 +17,9 @@ Personal Touch → Interests or Hobbies (optional)
 Call to Action → Contact Information or Portfolio & Links
 
 
-<p align="center">What's new with JBKneusel? </p>
+<p align="center">
+<img src="console2.png" width="400">
+</p>
 
 
 | 🔭 Currently Building | 🌱 Currently Studying | 💬 Currently Contemplating | 📖 Currently Reading | ⚡ Currently Hoping For |
