@@ -1,7 +1,7 @@
 ![](Banner.gif)
 
 <p align="center">
-<img src="console.png" width="100">
+<img src="console.png" width="400">
 </p>
 
 ## Salutations!
