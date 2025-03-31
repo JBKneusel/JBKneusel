@@ -1,4 +1,4 @@
-![](Banner.gif)
+![](GithubBanner.gif)
 
 <p align="center">
 <img src="console.png" width="400">
