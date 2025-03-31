@@ -4,18 +4,32 @@
 <img src="console.png" width="400">
 </p>
 
-## Salutations!
+---
+#### Overview:
+I am a fast learner who can troubleshoot, learn, and use new technologies quickly and proficiently, and adapt well to any environment. I pride myself on my work ethic, tendency to explore creative solutions, and ability to think outside the box. I love building awesome projects, learning about anything and everything, and working to better myself and the world around me. 
 
-Key Skills & Expertise → Skills or Core Competencies
+---
+#### Skill Dump:
 
-Experience & Achievements → Experience or Work History
+Python, C++, SQL, NoSQL, Node.js, JavaScript, HTML, CSS, Assembly, Lua, AWS, Docker, Kubernetes, SaaS Applications, API Development (REST, GraphQL, Satellite Imagery APIs), AGILE, Scrum, Git, GitHub, CI/CD, DevOps, ML, Deep Learning, TensorFlow, Data Analysis, Algorithms, Jupyter Notebooks, Markdown, LaTeX, Linux, Ubuntu, Assembly, LabVIEW, Web Development, REACT, Postman, Custom Application Development, Jira, Confluence, Atlassian Tools, Programming & Automation Tools, Expert Writing Ability, Creative Writing, Academic Writing, Technical Writing
 
-Passion & Motivation → Professional Summary (included within)
+---
+#### Academic Background:
 
-Personal Touch → Interests or Hobbies (optional)
+**UNIVERSITY OF COLORADO, BOULDER**, May, 2025
 
-Call to Action → Contact Information or Portfolio & Links
+- *Bachelor of Arts in Computer Science* 💻
+- *Bachelor of Arts in English (Writing focus)* 📝
 
+---
+#### Recent Employers:
+- **NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)**
+
+- **L3HARRIS TECHNOLOGIES** 
+***
+#### Interests:
+
+Philosophy & Cosmology. Science. Theology & Religion. Ancient Literature. Premodern Literature. Modern & Postmodern Literature. Music. Visual Arts. Archeology & Cultural Studies. Marine Biology. Planetary, Atmospheric, and Oceanographic Studies. Zoology. Paleontology. Global History. International Relations. Medicine. Technology. Artificial Intelligence. Cybersecurity and Cryptography. Astronomy. Aerospace Engineering. Bioinformatics. Radiology. Biomedical Engineering. Sports. Outdoor Athletics & Activities. Traditional & Contemporary Martial Arts. The Intersections of STEM and Humanities. Humanity’s relationship to the natural world.
 
 <p align="center">
 <img src="console2.png" width="700">
