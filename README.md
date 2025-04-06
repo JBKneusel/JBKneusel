@@ -11,9 +11,6 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 ---
 #### Technical Skills Dump:
 
-<img src="Skills.PNG" alt="Alt Text" width="550"/>
-<!--
-
 *Language Base*
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> 
@@ -58,7 +55,7 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 <img src="https://tse3.mm.bing.net/th/id/OIP.jIuf4iEHhSBcX4x484UlOwHaEK?w=200&h=112&c=7" height="40">
 <img src="https://tse2.mm.bing.net/th?id=OIP.ptEQfiSvOfPCxTOUHIkDWQHaEK&w=200&h=112&c=7" height="40">
 <img src="https://tse1.mm.bing.net/th?id=OIP.g14SdW6lKeabG4MUyLU15gHaEK&w=200&h=112&c=7" height="40">
--->
+
 ---
 #### Academic Background:
 <img src="https://i1.wp.com/upload.wikimedia.org/wikipedia/commons/8/86/University_of_Colorado_Boulder_logo.png" height="40">
