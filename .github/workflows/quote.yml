@@ -6,36 +6,28 @@ on:
   workflow_dispatch:  # Allow manual triggering of the action
 
 jobs:
-  update-readme:
+  update-quote:
     runs-on: ubuntu-latest
-
+    
     steps:
-    - name: Checkout Repository
+    - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Fetch Quote
-      id: fetch_quote
+    - name: Set up Git for GitHub Actions
       run: |
-        # Fetch a random quote from an API or file
-        curl -s "https://api.quotable.io/random" -o quote.json
-        quote=$(jq -r '.content' quote.json)
-        author=$(jq -r '.author' quote.json)
-        echo "QUOTE=\"$quote\"" >> $GITHUB_ENV
-        echo "AUTHOR=\"$author\"" >> $GITHUB_ENV
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+    
+    - name: Set up authentication using the GitHub token
+      run: |
+        git remote set-url origin https://github.com/${{ github.repository }}
+        git config --global credential.helper 'store'
+        echo "https://${{ secrets.GH_TOKEN }}:@github.com" > ~/.git-credentials
 
-    - name: Update README
+    - name: Update the quote
       run: |
-        # Update the README with the new quote
-        sed -i "/## Quote of the Day/,+3c\\
-        ## Quote of the Day\\
-        > \"$QUOTE\"\\
-        > - $AUTHOR\\
-        " README.md
-
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add README.md
-        git commit -m "Update quote of the day"
-        git push
+        # Your script to fetch and update the quote here
+        echo "Updated quote" > quote.txt
+        git add quote.txt
+        git commit -m "Update daily quote"
+        git push origin main
