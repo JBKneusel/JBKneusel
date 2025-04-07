@@ -1,0 +1,26 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  
+  workflow_dispatch:  
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get Quote Of the Day
+      run: |
+        curl -s https://zenquotes.io/api/today | jq -r '.[0].q' > quote.txt
+
+    - name: Commit and push the updated quote
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add quote.txt
+        git commit -m "Update daily quote"
+        git push
