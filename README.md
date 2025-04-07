@@ -26,9 +26,6 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 <img src="https://www.pngkey.com/png/full/479-4794953_assembly-x86-x86-icon.png" height="40">
 <img src="https://tse4.mm.bing.net/th?id=OIP.hTi3-6khVyOoggOwd4PUlgHaE6&w=200&h=132&c=7" height="40">
 
-
-
-
 *Development Tools & Methodologies*
 
 <img src="https://tse2.mm.bing.net/th?id=OIP.5gf2JQQmWla-GU-WXTrGcgHaE8&w=200&h=133&c=7" height="40"> <img src="https://tse3.mm.bing.net/th?id=OIP.Sd4Hxz8_CqID29kyj5-k9wHaEc&w=200&h=120&c=7" height="35"> 
