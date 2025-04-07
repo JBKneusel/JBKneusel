@@ -1,26 +1,27 @@
-name: Update Daily Quote
+name: Fetch and Update Quote
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  
-  workflow_dispatch:  
+    - cron: '*/5 * * * *'  # This will run every 5 minutes
 
 jobs:
-  update-quote:
+  fetch-quote:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Get Quote Of the Day
-      run: |
-        curl -s https://zenquotes.io/api/today | jq -r '.[0].q' > quote.txt
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Commit and push the updated quote
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-        git add quote.txt
-        git commit -m "Update daily quote"
-        git push
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run the script
+        run: |
+          python quote.py  
