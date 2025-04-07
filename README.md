@@ -8,11 +8,6 @@
 #### Overview:
 I am a fast learner who can troubleshoot, learn, and use new technologies quickly and proficiently, and adapt well to any environment. I pride myself on my work ethic, tendency to explore creative solutions, and ability to think outside the box. I love building awesome projects, learning about anything and everything, and working to better myself and the world around me. 
 
-#### Quote of the Day
-
-> `$(cat quote.txt)`
-
-
 ---
 #### Language Base:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> 
