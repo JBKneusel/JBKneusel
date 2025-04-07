@@ -9,12 +9,7 @@
 I am a fast learner who can troubleshoot, learn, and use new technologies quickly and proficiently, and adapt well to any environment. I pride myself on my work ethic, tendency to explore creative solutions, and ability to think outside the box. I love building awesome projects, learning about anything and everything, and working to better myself and the world around me. 
 
 ---
-#### Technical Skills Dump:
-
-*Language Base*
-
-<img src="Languages.PNG" height="60">
-<!--
+#### Language Base:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40">
@@ -26,12 +21,7 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 <img src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-png-transparent.png" height="30">
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" height="40">
 <img src="https://www.pngkey.com/png/full/479-4794953_assembly-x86-x86-icon.png" height="40">
-<img src="https://tse4.mm.bing.net/th?id=OIP.hTi3-6khVyOoggOwd4PUlgHaE6&w=200&h=132&c=7" height="40">
--->
-
-*Development Tools & Methodologies*
-
-<img src="ToolsBubble.png" height="300">
+<img src="http://physics.wku.edu/phys318/wp-content/uploads/2020/08/labview-site-icon-transparent.png" height="40">
 
 <!--
 <img src="https://tse2.mm.bing.net/th?id=OIP.5gf2JQQmWla-GU-WXTrGcgHaE8&w=200&h=133&c=7" height="40"> <img src="https://tse3.mm.bing.net/th?id=OIP.Sd4Hxz8_CqID29kyj5-k9wHaEc&w=200&h=120&c=7" height="35"> 
@@ -62,6 +52,7 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 <img src="https://tse2.mm.bing.net/th?id=OIP.ptEQfiSvOfPCxTOUHIkDWQHaEK&w=200&h=112&c=7" height="40">
 <img src="https://tse1.mm.bing.net/th?id=OIP.g14SdW6lKeabG4MUyLU15gHaEK&w=200&h=112&c=7" height="40">
 -->
+
 ---
 #### Academic Background:
 <img src="https://i1.wp.com/upload.wikimedia.org/wikipedia/commons/8/86/University_of_Colorado_Boulder_logo.png" height="40">
@@ -73,7 +64,7 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 
 ---
 #### Recent Employers:
-<img src="https://gpm.nasa.gov/sites/default/files/NASA-Logo-Large.jpg" height="40"> <img src="https://companieslogo.com/img/orig/LHX_BIG-85a89a01.png?t=1648848858" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" height="40"> <img src="https://companieslogo.com/img/orig/LHX_BIG-85a89a01.png?t=1648848858" height="40">
 
 - **NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)**
 
