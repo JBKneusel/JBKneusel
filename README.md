@@ -13,6 +13,8 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 
 *Language Base*
 
+<img src="Languages.png" height="40">
+
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40">
