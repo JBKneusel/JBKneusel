@@ -10,8 +10,7 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 
 #### Quote of the Day
 
-> "Initial quote goes here."  
-> - Author
+> `$(cat quote.txt)`
 
 
 ---
