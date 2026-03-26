@@ -64,12 +64,10 @@ I am a fast learner who can troubleshoot, learn, and use new technologies quickl
 
 ---
 #### Recent Employers:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" height="40"> <img src="https://companieslogo.com/img/orig/LHX_BIG-85a89a01.png?t=1648848858" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" height="40">
 
 - **NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)**
 
-- **L3HARRIS TECHNOLOGIES** 
-***
 #### Interests:
 
 | Arts and Humanities Interests       | STEM-Related Interests|  Other Interests |     
